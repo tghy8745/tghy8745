@@ -41,5 +41,6 @@ Here are some of my academic and personal projects:
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/tghy8745
+- https://www.linkedin.com/in/hailemariam-yilma-0611483bb/?
 
 Thanks for visiting my profile! ⭐
