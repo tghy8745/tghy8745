@@ -1,5 +1,5 @@
 
-# Hi, I'm Haile Yilma 👋
+# Hi, I'm Hailemariam Yilma 👋
 
 ### Computer Science Student | Aspiring Software Developer
 
@@ -40,7 +40,6 @@ Here are some of my academic and personal projects:
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/YOUR-USERNAME
+- GitHub: https://github.com/tghy8745
 
 Thanks for visiting my profile! ⭐
-
